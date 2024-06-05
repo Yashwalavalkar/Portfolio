@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+:root {
+  font-family: "Open Sans", sans-serif;
+  
+  scroll-behavior: smooth;
+}
+
+
+.hovering:hover {
+  transform: scale(1.1); 
+  
+  transition: transform 0.9s ease;
+}
+.hovering {
+ padding: 10px;
+}
+.custom-hr {
+  height: 2px; /* Set your desired height */
+  background-color: black; /* Optional: Set your desired color */
+  border: none; /* Remove default border */
+  margin-left: 30px; /* Remove default margin */
+  margin-right: 30px;
+}
+.projectBox1{
+  height: 430px;
+}
+
+.projectBox2{
+  height: 430px;
+}
+.interestBox{
+  height: 360px;
+  width: 220px !important;
+  margin: 10px;
+}
+.interestBox:hover{
+  background-color:aliceblue !important;
+  transform: scale(1.2);
+  transition: transform 1s;
+}
+.custom-hrskills {
+  height: 1px; /* Set your desired height */
+  background-color: black; /* Optional: Set your desired color */
+  border: none; /* Remove default border */
+  margin-left: 30px; /* Remove default margin */
+  margin-right: 30px;
+  margin: 4px;
+}
+.hidden {
+  display: none;
+}
+.hoverButton:hover{
+  background-color:lightblue;
+  transform: transform 4s;
+}
+.hoverButton{
+  border:3px solid black;
+}
+.projectButtons{
+  margin:4px;
+  width: 487px;
+}
+
+/* style={{ maxWidth: "100%", height: "400px" }}
+style={{ width: '100%', maxWidth: '480px' }} */
+
