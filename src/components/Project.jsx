@@ -326,7 +326,7 @@ export const Project = () => {
                         <img className="ml-2" src="https://th.bing.com/th/id/OIP.d1GtY8OQfrHRxi5QKr0ZawHaHa?rs=1&pid=ImgDetMain" alt="JavaScript" style={{ height: '50px' }} />
                         <h5 className="ml-3">JavaScript</h5>
                       </div>
-                      <div className="d-flex align-items-center mt-2">
+                      <div className="d-flex align-items-center mt-2"> 
                         <img className="ml-2" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" alt="Node.js" style={{ height: '50px' }} />
                         <h5 className="ml-3">Netlify</h5>
                       </div>
