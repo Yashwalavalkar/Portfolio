@@ -32,7 +32,7 @@ export const Contact = () => {
                 className="mr-1"
                 src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png"
                 style={{ height: "20px" }}
-                alt="image"
+                alt="image100"
               ></img>
               <a
                 className="text-decoration-none"
@@ -46,7 +46,7 @@ export const Contact = () => {
                 className="mr-1"
                 src="https://th.bing.com/th/id/OIP.eoZPB2gfGH-1ckaL_JSZdwAAAA?rs=1&pid=ImgDetMain"
                 style={{ height: "20px" }}
-                alt="image"
+                alt="image44"
               ></img>
               <a
                 className="text-decoration-none"
@@ -60,7 +60,7 @@ export const Contact = () => {
                 className="mr-1"
                 src="https://th.bing.com/th/id/OIP.aByvAl4Fl4Dk3N9fA3IudwAAAA?rs=1&pid=ImgDetMain"
                 style={{ height: "20px" }}
-                alt="image"
+                alt="image32"
               ></img>
               <a
                 className="text-decoration-none"
