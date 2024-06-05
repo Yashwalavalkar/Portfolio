@@ -52,7 +52,7 @@ export const Skills = () => {
         className=""
         src="https://www.clipartmax.com/png/middle/275-2754492_mongodb-nosql-document-oriented-database-portable-network-mongodb-logo.png"
         style={{ height: "50px", maxWidth: "50px" }}
-        alt="MongoDB logo"
+        alt="MongoDB logo1"
       />
       <h5 className="ml-3">MONGODB</h5>
     </div>
@@ -62,7 +62,7 @@ export const Skills = () => {
         className=""
         src="https://th.bing.com/th/id/R.440599a8245680b8e854f8cade0041e3?rik=kMc5PnIC4H5tVA&riu=http%3a%2f%2fclipart-library.com%2fnewhp%2fmicrosoft-sql-server-microsoft-azure-sql-database-microsoft.jpg&ehk=qkJhg9qhqXgtsQqJMI3dE17QA3dFHdZOQGy1Eu6%2f5qY%3d&risl=&pid=ImgRaw&r=0"
         style={{ height: "50px", maxWidth: "50px" }}
-        alt="SQL logo"
+        alt="SQL logo1"
       />
       <h5 className="ml-3">SQL</h5>
     </div>
@@ -86,7 +86,7 @@ export const Skills = () => {
                   className=""
                   src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png"
                   style={{ height: "50px" }}
-                  alt="image"
+                  alt="img1"
                 />
                 <h5 className="ml-3">BOOTSTRAP</h5>
               </div>
@@ -95,7 +95,7 @@ export const Skills = () => {
                   className=""
                   src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254069/material-ui-icon-sm.png"
                   style={{ height: "50px" }}
-                  alt="image"
+                  alt="img2"
                 />
                 <h5 className="ml-3">Material-UI</h5>
               </div>
@@ -105,7 +105,7 @@ export const Skills = () => {
                   className=""
                   src="https://justinmahar.gallerycdn.vsassets.io/extensions/justinmahar/react-bootstrap-snippets/1.0.9/1623101743632/Microsoft.VisualStudio.Services.Icons.Default"
                   style={{ height: "50px" }}
-                  alt="image"
+                  alt="img3"
                 />
                 <h5 className="ml-3">React Bootstrap</h5>
               </div>
@@ -115,7 +115,7 @@ export const Skills = () => {
                   className=""
                   src="https://www.pngrepo.com/download/354431/tailwindcss-icon.png"
                   style={{ height: "50px" }}
-                  alt="image"
+                  alt="img4"
                 />
                 <h5 className="ml-3"> Tailwind CSS</h5>
               </div>
@@ -139,7 +139,7 @@ export const Skills = () => {
                   className="ml-2"
                   src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png"
                   style={{ height: "50px" }}
-                  alt="image"
+                  alt="img5"
                 />
                 <h5 className="ml-3">NETLIFY</h5>
               </div>
@@ -148,7 +148,7 @@ export const Skills = () => {
                   className=""
                   src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700118-icon-20-clouds-1024.png"
                   style={{ height: "50px" }}
-                  alt="image"
+                  alt="img6"
                 />
                 <h5 className="ml-3">RENDER</h5>
               </div>
@@ -158,6 +158,7 @@ export const Skills = () => {
                   className=""
                   src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png"
                   style={{ height: "50px" }}
+                  alt="img7"
                 />
                 <h5 className="ml-3">AWS</h5>
               </div>
@@ -167,7 +168,8 @@ export const Skills = () => {
                   className=""
                   src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png"
                   style={{ height: "50px" }}
-                  alt="image"
+
+                  alt="img8"
                 />
                 <h5 className="ml-3">GITHUB PAGES</h5>
               </div>
@@ -190,7 +192,7 @@ export const Skills = () => {
                   className="ml-2"
                   src="https://th.bing.com/th/id/OIP.jNbT2B3djkHhPP2j7LAadwAAAA?rs=1&pid=ImgDetMain"
                   style={{ height: "50px" }}
-                  alt="image"
+                  alt="img9"
                 />
                 <h5 className="ml-3">HTML</h5>
               </div>
@@ -199,7 +201,7 @@ export const Skills = () => {
                   className=""
                   src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png"
                   style={{ height: "50px" }}
-                  alt="image"
+                  alt="img10"
                 />
                 <h5 className="ml-3">CSS</h5>
               </div>
@@ -209,7 +211,7 @@ export const Skills = () => {
                   className=""
                   src="https://th.bing.com/th/id/OIP.d1GtY8OQfrHRxi5QKr0ZawHaHa?rs=1&pid=ImgDetMain"
                   style={{ height: "50px" }}
-                  alt="image"
+                  alt="img11"
                 />
                 <h5 className="ml-3">JAVASCRIPT</h5>
               </div>
@@ -220,7 +222,7 @@ export const Skills = () => {
                   className=""
                   src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png"
                   style={{ height: "50px" }}
-                  alt="image"
+                  alt="img12"
                 />
                 <h5 className="ml-3">REACT. JS</h5>
               </div>
@@ -230,7 +232,7 @@ export const Skills = () => {
                   className=""
                   src="https://th.bing.com/th/id/OIP.KhEi6z8wYQZVa0IFYmaUXAHaHa?rs=1&pid=ImgDetMain"
                   style={{ height: "50px" }}
-                  alt="image"
+                  alt="img13"
                 />
                 <h5 className="ml-3">NEXT. JS </h5>
               </div>
@@ -240,7 +242,7 @@ export const Skills = () => {
                   className=""
                   src="https://th.bing.com/th/id/OIP.1ji9NLQl3sOXktSoEYnt3wHaHa?rs=1&pid=ImgDetMain"
                   style={{ height: "50px" }}
-                  alt="image"
+                  alt="img14"
                 />
                 <h5 className="ml-3">EXPRESS. JS</h5>
               </div>
@@ -249,7 +251,7 @@ export const Skills = () => {
                   className=""
                   src="https://th.bing.com/th/id/R.f7337d339216d05c1551688efb13a830?rik=m28qY9WE3BaKXQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnodejs-png-nodejs-icon-png-50-px-1600.png&ehk=XR9ktXGvw5svYVTEqemL7wSEUZL%2bihqTpYBLPSQn8GQ%3d&risl=&pid=ImgRaw&r=0"
                   style={{ height: "50px" }}
-                  alt="image"
+                  alt="img15"
                 />
                 <h5 className="ml-3">NODE. JS </h5>
               </div>
@@ -258,7 +260,7 @@ export const Skills = () => {
                   className=""
                   src="https://th.bing.com/th/id/OIP.RvrEinC-XMTxt_fEqFIB_AAAAA?w=142&h=150&c=7&r=0&o=5&dpr=1.5&pid=1.7"
                   style={{ height: "50px" }}
-                  alt="image"
+                  alt="img21"
                 />
                 <h5 className="ml-3">Redux</h5>
               </div>
