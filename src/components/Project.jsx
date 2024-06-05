@@ -132,12 +132,12 @@ export const Project = () => {
                 </button>
                 <div className="d-flex justify-content-between mb-2">
                   <button className="btn btn-primary m-1">
-                    <a href="" className="text-white text-decoration-none">
+                    <a href="https://stellular-cassata-a028ea.netlify.app" className="text-white text-decoration-none">
                       SEE LIVE
                     </a>
                   </button>
                   <button className="btn btn-primary m-1">
-                    <a href="" className="text-white text-decoration-none">
+                    <a href="https://github.com/Yashwalavalkar/portfolio" className="text-white text-decoration-none">
                       SOURCE CODE
                     </a>
                   </button>
