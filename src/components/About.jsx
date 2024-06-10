@@ -16,7 +16,7 @@ export const About = () => {
         <div className='row my-5'>
           <div className='col-md-6'>
             <img
-              src='https://www.wallpapertip.com/wmimgs/160-1606283_web-developer-wallpaper.jpg'
+              src='https://hyattfennell.com/wp-content/uploads/2022/09/workfh.jpeg'
               className='img-fluid'
               alt='Web Developer'
             />
