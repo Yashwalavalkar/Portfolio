@@ -1,7 +1,6 @@
 
 import './App.css';
 import { Home } from './components/Home';
-
 function App() {
   return (
     <div className=''>
@@ -29,6 +28,7 @@ function App() {
     <div className='' style={{marginTop:'97px'}}>
           <Home/>
     </div>
+   
 
     </div>
   );

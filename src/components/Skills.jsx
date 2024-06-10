@@ -6,8 +6,7 @@ import { Footer } from "./Footer";
 
 export const Skills = () => {
   return (
-    <div className="" style={{ backgroundColor: "blueviolet"}}>
-      
+    <div className="container-fluid" style={{ backgroundColor: "blueviolet" }}>
       <div className="row ">
         <div className="col-4"></div>
         <div className="col-4 mt-4  d-flex justify-content-center text-white">
@@ -18,57 +17,55 @@ export const Skills = () => {
 
       <div className="row">
         <div className="col-sm-3">
-        <div
-  className="bg-white rounded d-flex flex-column m-4 pt-2 hovering"
-  style={{ minHeight: "130px", maxWidth: "300px" }}
->
-  <div className="d-flex justify-content-center">
-    <h6>Version Control System</h6>
-  </div>
-  <hr className="custom-hrskills" />
-  <div className="mt-3 d-flex align-items-center">
-    <img
-      className="ml-2"
-      src="https://www.bestreviews2017.com/wp-content/uploads/2016/12/GIT-765x765.png"
-      style={{ height: "50px", maxWidth: "50px" }}
-      alt="GIT logo"
-    />
-    <h5 className="ml-3">GIT</h5>
-  </div>
-</div>
+          <div
+            className="bg-white rounded d-flex flex-column m-4 pt-2 hovering"
+            style={{ minHeight: "130px", maxWidth: "300px" }}
+          >
+            <div className="d-flex justify-content-center">
+              <h6>Version Control System</h6>
+            </div>
+            <hr className="custom-hrskills" />
+            <div className="mt-3 d-flex align-items-center">
+              <img
+                className="ml-2"
+                src="https://www.bestreviews2017.com/wp-content/uploads/2016/12/GIT-765x765.png"
+                style={{ height: "50px", maxWidth: "50px" }}
+                alt="GIT logo"
+              />
+              <h5 className="ml-3">GIT</h5>
+            </div>
+          </div>
 
+          <div
+            className="bg-white d-flex rounded m-4 hovering flex-column"
+            style={{ minHeight: "150px", maxWidth: "300px" }}
+          >
+            <div className="d-flex justify-content-center">
+              <h6>Database</h6>
+            </div>
+            <hr className="custom-hrskills" />
+            <div className="d-flex flex-column justify-content-center">
+              <div className="d-flex align-items-center">
+                <img
+                  className=""
+                  src="https://www.clipartmax.com/png/middle/275-2754492_mongodb-nosql-document-oriented-database-portable-network-mongodb-logo.png"
+                  style={{ height: "50px", maxWidth: "50px" }}
+                  alt="MongoDB logo1"
+                />
+                <h5 className="ml-3">MONGODB</h5>
+              </div>
 
-<div
-  className="bg-white d-flex rounded m-4 hovering flex-column"
-  style={{ minHeight: "150px", maxWidth: "300px" }}
->
-  <div className="d-flex justify-content-center">
-    <h6>Database</h6>
-  </div>
-  <hr className="custom-hrskills" />
-  <div className="d-flex flex-column justify-content-center">
-    <div className="d-flex align-items-center">
-      <img
-        className=""
-        src="https://www.clipartmax.com/png/middle/275-2754492_mongodb-nosql-document-oriented-database-portable-network-mongodb-logo.png"
-        style={{ height: "50px", maxWidth: "50px" }}
-        alt="MongoDB logo1"
-      />
-      <h5 className="ml-3">MONGODB</h5>
-    </div>
-
-    <div className="ml-2 d-flex align-items-center">
-      <img
-        className=""
-        src="https://th.bing.com/th/id/R.440599a8245680b8e854f8cade0041e3?rik=kMc5PnIC4H5tVA&riu=http%3a%2f%2fclipart-library.com%2fnewhp%2fmicrosoft-sql-server-microsoft-azure-sql-database-microsoft.jpg&ehk=qkJhg9qhqXgtsQqJMI3dE17QA3dFHdZOQGy1Eu6%2f5qY%3d&risl=&pid=ImgRaw&r=0"
-        style={{ height: "50px", maxWidth: "50px" }}
-        alt="SQL logo1"
-      />
-      <h5 className="ml-3">SQL</h5>
-    </div>
-  </div>
-</div>
-
+              <div className="ml-2 d-flex align-items-center">
+                <img
+                  className=""
+                  src="https://th.bing.com/th/id/R.440599a8245680b8e854f8cade0041e3?rik=kMc5PnIC4H5tVA&riu=http%3a%2f%2fclipart-library.com%2fnewhp%2fmicrosoft-sql-server-microsoft-azure-sql-database-microsoft.jpg&ehk=qkJhg9qhqXgtsQqJMI3dE17QA3dFHdZOQGy1Eu6%2f5qY%3d&risl=&pid=ImgRaw&r=0"
+                  style={{ height: "50px", maxWidth: "50px" }}
+                  alt="SQL logo1"
+                />
+                <h5 className="ml-3">SQL</h5>
+              </div>
+            </div>
+          </div>
         </div>
 
         <div className="col-sm-3 ">
@@ -119,13 +116,12 @@ export const Skills = () => {
                 />
                 <h5 className="ml-3"> Tailwind CSS</h5>
               </div>
-
             </div>
           </div>
         </div>
 
         <div className="col-sm-3">
-        <div
+          <div
             className="bg-white m-4 rounded pt-2 justify-content-center hovering"
             style={{ height: "270px" }}
           >
@@ -168,17 +164,15 @@ export const Skills = () => {
                   className=""
                   src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png"
                   style={{ height: "50px" }}
-
                   alt="img8"
                 />
                 <h5 className="ml-3">GITHUB PAGES</h5>
               </div>
-
             </div>
           </div>
         </div>
         <div className="col-sm-3">
-        <div
+          <div
             className="bg-white m-4 rounded pt-2 justify-content-center hovering"
             style={{ height: "500px" }}
           >
@@ -216,7 +210,6 @@ export const Skills = () => {
                 <h5 className="ml-3">JAVASCRIPT</h5>
               </div>
 
-              
               <div className="ml-2 d-flex align-items-center mb-2">
                 <img
                   className=""
@@ -264,21 +257,18 @@ export const Skills = () => {
                 />
                 <h5 className="ml-3">Redux</h5>
               </div>
-
             </div>
           </div>
         </div>
       </div>
-<br></br>
-<br></br><br></br>
       <hr className="custom-hr" />
-      <section></section>
       <Project />
+      <hr className="custom-hr" />
       <Hobbies />
       <hr className="custom-hr" />
       <Contact />
       <hr className="custom-hr" />
-      
+
       <Footer />
     </div>
   );
