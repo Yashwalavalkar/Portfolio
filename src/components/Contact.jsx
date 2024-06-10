@@ -5,19 +5,19 @@ export const Contact = () => {
     <div className="">
       <section id="contact"></section>
       <div className="row">
-        <div className="col-4"></div>
-        <div className="col-4 d-flex justify-content-center">
+        <div className="col-md-4"></div>
+        <div className="col-md-4 d-flex justify-content-center">
           <h1>CONTACT</h1>
         </div>
-        <div className="col-4"></div>
+        <div className="col-md-4"></div>
       </div>
 
       <div className="row ">
         <div className="col-sm-1"></div>
         <div className="col-sm-10">
           <div
-            className="bg-white rounded mt-5 p-5 d-flex justify-content-center"
-            style={{ height: "150px" }}
+            className="bg-white rounded mt-5 p-3 d-flex justify-content-center flex-wrap"
+            style={{ minHeight: "150px" }}
           >
             <button className="hoverButton d-flex align-items-center btn m-1">
               <a
@@ -32,7 +32,7 @@ export const Contact = () => {
                 className="mr-1"
                 src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png"
                 style={{ height: "20px" }}
-                alt="image100"
+                alt="LinkedIn"
               ></img>
               <a
                 className="text-decoration-none"
@@ -46,7 +46,7 @@ export const Contact = () => {
                 className="mr-1"
                 src="https://th.bing.com/th/id/OIP.eoZPB2gfGH-1ckaL_JSZdwAAAA?rs=1&pid=ImgDetMain"
                 style={{ height: "20px" }}
-                alt="image44"
+                alt="Github"
               ></img>
               <a
                 className="text-decoration-none"
@@ -60,7 +60,7 @@ export const Contact = () => {
                 className="mr-1"
                 src="https://th.bing.com/th/id/OIP.aByvAl4Fl4Dk3N9fA3IudwAAAA?rs=1&pid=ImgDetMain"
                 style={{ height: "20px" }}
-                alt="image32"
+                alt="Youtube"
               ></img>
               <a
                 className="text-decoration-none"

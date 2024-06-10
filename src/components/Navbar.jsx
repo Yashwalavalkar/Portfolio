@@ -5,6 +5,10 @@ export const Navbar = () => {
 
   const toggleLinks = () => {
     setShowLinks(!showLinks);
+    const navbarNav = document.getElementById('navbarNav');
+    if (navbarNav) {
+      navbarNav.classList.toggle('show');
+    }
   };
 
   return (
