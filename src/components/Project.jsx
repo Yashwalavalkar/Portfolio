@@ -10,7 +10,7 @@ export const Project = () => {
       box1: { div: "myDiv1", box: "boxsize", height: "1000px" },
       box2: { div: "myDiv2", box: "boxsize2", height: "890px" },
       box3: { div: "myDiv3", box: "boxsize3", height: "970px" },
-      box4: { div: "myDiv4", box: "boxsize4", height: "910px" },
+      box4: { div: "myDiv4", box: "boxsize4", height: "950px" },
     };
 
     const { div, box, height } = elements[parameter];

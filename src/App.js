@@ -38,7 +38,7 @@ function App() {
               onClick={toggleLinks}
               aria-label='Toggle navigation'
             >
-              {showLinks ? <span></span> : <span></span>}
+              {showLinks ? <span><b>=</b></span> : <span><b>=</b></span>}
             </button>
           </div>
         )}

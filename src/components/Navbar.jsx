@@ -20,19 +20,19 @@ export const Navbar = () => {
         <div className='col-12 col-md-8'>
           <header>
             <nav className='navbar navbar-expand-md navbar-dark bg-dark'>
-              <button
+              <button 
                 className='navbar-toggler'
                 type='button'
                 onClick={toggleLinks}
                 aria-label='Toggle navigation'
               >
-                <span className='navbar-toggler-icon'></span>
+                <span className="navbar-toggler-icon"></span>
               </button>
               <div className={`collapse navbar-collapse ${showLinks ? 'show' : ''}`} id='navbarNav'>
                 <ul className='navbar-nav ml-auto'>
                   <li className='nav-item'>
-                    <a href='#home' className='nav-link text-white'>
-                      HOME
+                    <a href='#home' className='nav-link text-white'> 
+                      HOMEs
                     </a>
                   </li>
                   <li className='nav-item'>
