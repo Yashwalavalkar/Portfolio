@@ -76,3 +76,72 @@ code {
 /* style={{ maxWidth: "100%", height: "400px" }}
 style={{ width: '100%', maxWidth: '480px' }} */
 
+
+/* Project.css */
+
+#projects {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+.projectBox1 {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+@media (max-width: 767px) {
+  h1 {
+    font-size: 1rem;
+  }
+
+  .projectBox1 {
+    margin: 10px;
+    padding: 10px;
+  }
+
+  .projectButtons {
+    font-size: 1rem;
+  }
+
+  .custom-hrskills {
+    margin: 10px 0;
+  }
+
+  img {
+    height: 40px !important;
+  }
+
+  h5 {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 3rem;
+  }
+
+  .projectBox1 {
+    margin: 20px;
+    padding: 20px;
+  }
+
+  .projectButtons {
+    font-size: 1.25rem;
+  }
+
+  .custom-hrskills {
+    margin: 20px 0;
+  }
+
+  img {
+    height: 50px;
+  }
+
+  h5 {
+    font-size: 1.25rem;
+  }
+}

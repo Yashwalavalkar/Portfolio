@@ -19,7 +19,7 @@ export const Skills = () => {
         <div className="col-sm-3">
           <div
             className="bg-white rounded d-flex flex-column m-4 pt-2 hovering"
-            style={{ minHeight: "130px", maxWidth: "300px" }}
+            style={{ minHeight: "150px", maxWidth: "300px" }}
           >
             <div className="d-flex justify-content-center">
               <h6>Version Control System</h6>
@@ -71,7 +71,7 @@ export const Skills = () => {
         <div className="col-sm-3 ">
           <div
             className="bg-white m-4 rounded pt-2 justify-content-center hovering"
-            style={{ height: "270px" }}
+            style={{ minHeight: "150px", maxWidth: "300px" }}
           >
             <div className="d-flex justify-content-center ">
               <h6>FRAMEWORKS</h6>
@@ -123,7 +123,7 @@ export const Skills = () => {
         <div className="col-sm-3">
           <div
             className="bg-white m-4 rounded pt-2 justify-content-center hovering"
-            style={{ height: "270px" }}
+            style={{ minHeight: "150px", maxWidth: "300px" }}
           >
             <div className="d-flex justify-content-center ">
               <h6>HOSTING PLATFORM</h6>
@@ -174,10 +174,10 @@ export const Skills = () => {
         <div className="col-sm-3">
           <div
             className="bg-white m-4 rounded pt-2 justify-content-center hovering"
-            style={{ height: "500px" }}
+            style={{  minHeight: "150px", maxWidth: "300px" }}
           >
             <div className="d-flex justify-content-center ">
-              <h6>LIBRARIES/OTHER</h6>
+              <h6>LIABRARIES/OTHER</h6>
             </div>
             <hr className="custom-hrskills" />
             <div className="d-flex flex-column justify-content-center ">
@@ -193,7 +193,7 @@ export const Skills = () => {
               <div className="ml-2 d-flex align-items-center mb-2">
                 <img
                   className=""
-                  src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png"
+                  src="https://eric.golde.org/home/assets/images/lang/CSS.png"
                   style={{ height: "50px" }}
                   alt="img10"
                 />
