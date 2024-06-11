@@ -7,10 +7,10 @@ import resumeBuilder from "../Images/resumeBuilder.png";
 export const Project = () => {
   const myFunction = (parameter) => {
     const elements = {
-      box1: { div: "myDiv1", box: "boxsize", height: "1000px" },
-      box2: { div: "myDiv2", box: "boxsize2", height: "890px" },
-      box3: { div: "myDiv3", box: "boxsize3", height: "970px" },
-      box4: { div: "myDiv4", box: "boxsize4", height: "950px" },
+      box1: { div: "myDiv1", box: "boxsize", height: "1250px" },
+      box2: { div: "myDiv2", box: "boxsize2", height: "1030px" },
+      box3: { div: "myDiv3", box: "boxsize3", height: "1200px" },
+      box4: { div: "myDiv4", box: "boxsize4", height: "1050px" },
     };
 
     const { div, box, height } = elements[parameter];
