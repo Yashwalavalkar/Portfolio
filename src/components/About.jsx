@@ -38,7 +38,7 @@ export const About = () => {
             <hr />
             <div className="d-flex justify-content-center">
               <a
-                href="https://drive.google.com/file/d/1zajdMx14t8QzK68yrrp5od8Op6MNkHEs/view?usp=sharing"
+                href="https://drive.google.com/file/d/1EDHvMcAdzJM2HmtgIwnv9qbv80Jck-6O/view?usp=sharing"
                 className="btn btn-primary shadow-lg"
                 target="_blank"
                 rel="noopener noreferrer"
